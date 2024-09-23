@@ -1,4 +1,4 @@
-    #include <iostream>
+#include <iostream>
 #include <vector> // thay vì dùng mảng thì dùng vector
 #include <cstdlib>
 #include <ctime>
